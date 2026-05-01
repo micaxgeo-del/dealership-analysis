@@ -99,8 +99,8 @@ concesionaria/
 ## 🚀 Cómo ejecutar
 
 ```bash
-git clone https://github.com/micaelaferiale/concesionaria-analisis.git
-cd concesionaria-analisis
+git clone https://github.com/micaxgeo-del/dealership-analysis.git
+cd dealership-analysis
 pip install -r requirements.txt
 python main.py
 ```
