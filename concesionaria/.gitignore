@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+.venv
+.ipynb_checkpoints/
+.DS_Store
+models/artifacts.pkl
+notebooks/build_notebook.py
+src/generate_data.py
