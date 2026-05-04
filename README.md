@@ -1,4 +1,4 @@
-# 🏎️ Análisis de Ventas — Concesionaria Multimarca 2022–2024
+#  Análisis de Ventas — Concesionaria Multimarca 2022–2024
 ### Con Modelos ML para Predicción de Margen y Tiempo de Cierre
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 Descripción
+##  Descripción
 
 Pipeline completo de análisis de ventas para una concesionaria multimarca argentina (2022–2024):
 - KPIs de negocio: revenue, márgenes, comisiones, accesorios
@@ -24,7 +24,7 @@ Pipeline completo de análisis de ventas para una concesionaria multimarca argen
 
 ---
 
-## 📁 Estructura
+##  Estructura
 
 ```
 concesionaria/
@@ -47,7 +47,7 @@ concesionaria/
 
 ---
 
-## 📊 Dataset — Variables principales
+##  Dataset — Variables principales
 
 | Variable | Descripción |
 |---|---|
@@ -65,7 +65,7 @@ concesionaria/
 
 ---
 
-## 💰 KPIs del Período
+##  KPIs del Período
 
 | KPI | Valor |
 |---|---|
@@ -79,7 +79,7 @@ concesionaria/
 
 ---
 
-## 🤖 Machine Learning
+##  Machine Learning
 
 | Target | Mejor Modelo | R² | MAPE |
 |---|---|---|---|
@@ -90,13 +90,13 @@ concesionaria/
 
 ---
 
-## 📈 Visualizaciones (12)
+##  Visualizaciones (12)
 
 `01` Revenue mensual + var MoM · `02` Top modelos · `03` Segmentos · `04` Performance vendedores · `05` Financiación y origen · `06` Impacto descuentos · `07` Accesorios y permuta · `08` Heatmap vendedor×segmento · `09` Feature importance · `10` Comparación modelos · `11` Pred vs. real · `12` Zona, timing y rating
 
 ---
 
-## 🚀 Cómo ejecutar
+##  Cómo ejecutar
 
 ```bash
 git clone https://github.com/micaxgeo-del/dealership-analysis.git
@@ -107,7 +107,7 @@ python main.py
 
 ---
 
-## 💡 Insights clave
+##  Insights clave
 
 - **Toyota Hilux y Ford Ranger** son los modelos más rentables en unidades absolutas
 - Los vendedores **Senior** cierran con mejor margen pero no necesariamente más rápido
@@ -117,9 +117,9 @@ python main.py
 
 ---
 
-## 👩‍💻 Autora
+##  Autora
 
 **Micaela Bianca Feriale** — Analista de Datos  
-📧 Ferialemicaela@gmail.com · 🔗 [linkedin.com/in/micaelaferiale](https://www.linkedin.com/in/micaelaferiale/)
+ Ferialemicaela@gmail.com ·  [linkedin.com/in/micaelaferiale](https://www.linkedin.com/in/micaelaferiale/)
 
-<div align="center">⭐ Si te resultó útil, dejá una estrella ⭐</div>
+<div align="center"> Si te resultó útil, dejá una estrella </div>
